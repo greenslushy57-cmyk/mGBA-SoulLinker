@@ -31,7 +31,7 @@ save files.
 
 ## What you need
 
-* A Windows or macOS computer.
+* A Windows (mac support is not working right I don't know why)
 * **mGBA** installed.
 * **Python 3** installed if you are using the source-code launcher
 rather than a packaged release.
