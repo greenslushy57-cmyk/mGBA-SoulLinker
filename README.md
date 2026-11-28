@@ -31,7 +31,7 @@ save files.
 
 ## What you need
 
-* A Windows (mac support is not working right I don't know why)
+* A system running Windows (mac's auto launcher is not working right but if you manually set up the hub and lua scrips on mac it should work)
 * **mGBA** installed.
 * **Python 3** installed if you are using the source-code launcher
 rather than a packaged release.
