@@ -11,8 +11,8 @@ Game Boy Color, and Game Boy Advance games.
 * **Automatic route linking:** the hub tracks the first eligible
 encounter for each area and links the players' Pokémon for that
 encounter.
-* **Automatic fainting:** when a linked Pokémon faints, its partner is
-automatically fainted as well.
+* **Automatic fainting:** when a linked Pokémon faints in game, its partner is
+automatically fainted in their own game as well.
 * **Live party tracking:** view both players' parties in the companion
 window.
 * **Encounter and pair logs:** review route encounters and active or
