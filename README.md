@@ -1,6 +1,6 @@
 # Pokémon SoulLink Hub
 
-A two-player Pokémon SoulLink companion for **Generations 1--3**. The
+A two-player Pokémon SoulLink companion for **Generations 1--3**. This
 project connects two mGBA game sessions to a shared hub that tracks
 parties, route encounters, linked pairs, and fainted Pokémon.
 
